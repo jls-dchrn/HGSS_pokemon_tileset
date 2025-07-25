@@ -12,7 +12,7 @@ I formatted them to be compatible with RPG Maker XP by:
 ---
 
 ## Project Structure
-
+```
 .  
 ├── README.md               
 ├── Buildings/  
@@ -22,7 +22,7 @@ I formatted them to be compatible with RPG Maker XP by:
 ├── Urban/  
 ├── ...   
 └── Nature/      
-
+```
 
 Each folder corresponds to one of SirMalo's tilesets and contains a cleaned PNG version.
 
